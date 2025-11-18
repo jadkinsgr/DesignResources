@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.9" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.8" pages="2">
   <diagram name="CareConvene" id="kbnUAH724Em1v42zN59l">
-    <mxGraphModel dx="1748" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-0" />
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-1" parent="kfbQjCIQF7K4VHMFwIz1-0" />
@@ -81,9 +81,6 @@
         </mxCell>
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-27" value="AWS Glue" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="kfbQjCIQF7K4VHMFwIz1-25" vertex="1">
           <mxGeometry x="20" y="30" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kfbQjCIQF7K4VHMFwIz1-28" value="Azure Data Factory" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="kfbQjCIQF7K4VHMFwIz1-25" vertex="1">
-          <mxGeometry x="20" y="120" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-29" value="JDBC Data Loaders" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="kfbQjCIQF7K4VHMFwIz1-25" vertex="1">
           <mxGeometry width="130" height="30" as="geometry" />
