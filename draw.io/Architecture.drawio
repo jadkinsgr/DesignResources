@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.1" pages="8">
   <diagram name="Generic" id="kbnUAH724Em1v42zN59l">
-    <mxGraphModel dx="1911" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1930" dy="821" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-0" />
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-1" parent="kfbQjCIQF7K4VHMFwIz1-0" />
@@ -362,7 +362,7 @@
         <mxCell id="i_saEMdPfAjvepuv0N_H-2" parent="i_saEMdPfAjvepuv0N_H-0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Streaming" vertex="1">
           <mxGeometry height="30" width="80" y="19.999310344827585" as="geometry" />
         </mxCell>
-        <mxCell id="i_saEMdPfAjvepuv0N_H-3" parent="i_saEMdPfAjvepuv0N_H-0" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="Twillio" vertex="1">
+        <mxCell id="i_saEMdPfAjvepuv0N_H-3" parent="i_saEMdPfAjvepuv0N_H-0" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="FHIR API" vertex="1">
           <mxGeometry height="30" width="120" x="10" y="50" as="geometry" />
         </mxCell>
         <mxCell id="i_saEMdPfAjvepuv0N_H-6" parent="kfbQjCIQF7K4VHMFwIz1-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Event Hub / Kafka Compatible" vertex="1">
@@ -2697,7 +2697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Tendo" id="Us-0VrWHbQxAknij8ZWP">
-    <mxGraphModel dx="2316" dy="1105" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2316" dy="985" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="JUkYf2V37Dk6tF-xXY9Z-0" />
         <mxCell id="JUkYf2V37Dk6tF-xXY9Z-1" parent="JUkYf2V37Dk6tF-xXY9Z-0" />
