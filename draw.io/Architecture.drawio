@@ -2788,6 +2788,24 @@
         <mxCell id="asJ_3wK1U5Gp2bEm7RGM-1" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Or" vertex="1">
           <mxGeometry height="26" width="31" x="10" y="102" as="geometry" />
         </mxCell>
+        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-103" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CD7F32,var(--ge-dark-color, #121212));" value="DBX&lt;br&gt;Bronze" vertex="1">
+          <mxGeometry height="74" width="47.05882352941177" x="377.5041176470588" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-106" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" value="&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Bronze - Raw Data&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Append only&lt;/li&gt;&lt;li&gt;No Augmentation&lt;/li&gt;&lt;li&gt;No Transformation&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="432.5" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-104" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#C0C0C0,var(--ge-dark-color, #121212));" value="DBX&lt;br&gt;Silver" vertex="1">
+          <mxGeometry height="74" width="47.05882352941177" x="663.9988235294118" y="291" as="geometry" />
+        </mxCell>
+        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-107" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" value="&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Silver - Augmented Data&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Transformations&lt;/li&gt;&lt;li&gt;Augmentations&lt;/li&gt;&lt;li&gt;De-Duplication...&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="718.99" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-105" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFD700,var(--ge-dark-color, #121212));" value="DBX&lt;br&gt;Gold" vertex="1">
+          <mxGeometry height="74" width="47.05882352941177" x="504.99529411764706" y="387" as="geometry" />
+        </mxCell>
+        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-108" parent="JUkYf2V37Dk6tF-xXY9Z-25" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" value="&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Gold - Report / ML Ready&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Final Data Set&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Used in Powerbi/Tableau&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Used in ML models&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="559.99" y="377" as="geometry" />
+        </mxCell>
         <mxCell id="JUkYf2V37Dk6tF-xXY9Z-30" edge="1" parent="JUkYf2V37Dk6tF-xXY9Z-1" source="JUkYf2V37Dk6tF-xXY9Z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" target="JUkYf2V37Dk6tF-xXY9Z-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -3034,24 +3052,6 @@
         </mxCell>
         <mxCell id="JUkYf2V37Dk6tF-xXY9Z-102" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Landing Zone" vertex="1">
           <mxGeometry height="30" width="100" x="500" y="339" as="geometry" />
-        </mxCell>
-        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-103" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#CD7F32,var(--ge-dark-color, #121212));" value="DBX&lt;br&gt;Bronze" vertex="1">
-          <mxGeometry height="74" width="47.05882352941177" x="1416.0041176470588" y="673" as="geometry" />
-        </mxCell>
-        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-104" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#C0C0C0,var(--ge-dark-color, #121212));" value="DBX&lt;br&gt;Silver" vertex="1">
-          <mxGeometry height="74" width="47.05882352941177" x="1416.0088235294118" y="768" as="geometry" />
-        </mxCell>
-        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-105" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=light-dark(#FFD700,var(--ge-dark-color, #121212));" value="DBX&lt;br&gt;Gold" vertex="1">
-          <mxGeometry height="74" width="47.05882352941177" x="1416.005294117647" y="864" as="geometry" />
-        </mxCell>
-        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-106" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" value="&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Bronze - Raw Data&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Append only&lt;/li&gt;&lt;li&gt;No Augmentation&lt;/li&gt;&lt;li&gt;No Transformation&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="210" x="1471" y="673" as="geometry" />
-        </mxCell>
-        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-107" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" value="&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Silver - Augmented Data&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Transformations&lt;/li&gt;&lt;li&gt;Augmentations&lt;/li&gt;&lt;li&gt;De-Duplication...&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="210" x="1471" y="762" as="geometry" />
-        </mxCell>
-        <mxCell id="JUkYf2V37Dk6tF-xXY9Z-108" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=default;" value="&lt;b&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Gold - Report / ML Ready&lt;/b&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Final Data Set&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Used in Powerbi/Tableau&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Used in ML models&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="210" x="1471" y="854" as="geometry" />
         </mxCell>
         <mxCell id="JUkYf2V37Dk6tF-xXY9Z-109" connectable="0" parent="JUkYf2V37Dk6tF-xXY9Z-1" style="group" value="" vertex="1">
           <mxGeometry height="89.31" width="180" x="9" y="64" as="geometry" />
