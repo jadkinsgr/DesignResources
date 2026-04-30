@@ -929,6 +929,11 @@
         <mxCell id="hVo_SjRyug4V0suftV5b-99" parent="kfbQjCIQF7K4VHMFwIz1-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="* Potential Drawbacks: Added complexity, perhaps a bit slower" vertex="1">
           <mxGeometry height="30" width="175" x="73" y="4052.92" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;a href=&quot;https://learn.microsoft.com/en-us/azure/databricks/ingestion/lakeflow-connect/sql-server-privileges&quot;&gt;Microsoft SQL Server database user requirements - Azure Databricks | Microsoft Learn&lt;/a&gt;" link="&lt;a href=&quot;https://learn.microsoft.com/en-us/azure/databricks/ingestion/lakeflow-connect/sql-server-privileges&quot;&gt;Microsoft SQL Server database user requirements - Azure Databricks | Microsoft Learn&lt;/a&gt;" id="hVo_SjRyug4V0suftV5b-101">
+          <mxCell parent="kfbQjCIQF7K4VHMFwIz1-1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="36" width="489" x="502.4990909090908" y="4548.296363636363" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
