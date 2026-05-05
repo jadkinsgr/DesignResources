@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" pages="9">
   <diagram name="Generic" id="kbnUAH724Em1v42zN59l">
-    <mxGraphModel dx="2100" dy="1263" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2589" dy="1000" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-0" />
         <mxCell id="kfbQjCIQF7K4VHMFwIz1-1" parent="kfbQjCIQF7K4VHMFwIz1-0" />
@@ -941,6 +941,9 @@
         </UserObject>
         <mxCell id="SR_GLYbgV3uWBJ7KkVQL-0" parent="kfbQjCIQF7K4VHMFwIz1-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="* Requires mostly SELECT grants but also a few EXECUTE grants on SQL Server&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="175" x="151" y="4414.22" as="geometry" />
+        </mxCell>
+        <mxCell id="_R1U4dqiANR_Ba4NRpHE-0" parent="kfbQjCIQF7K4VHMFwIz1-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Centralized Lakehouse&lt;/h1&gt;&lt;p&gt;Putting everything in one place&lt;/p&gt;" vertex="1">
+          <mxGeometry height="91" width="280" x="309" y="2871" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
