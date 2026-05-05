@@ -949,7 +949,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Deaconess" id="AKKGdWM5tcK1Tmna9CN1">
-    <mxGraphModel dx="2556" dy="983" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2103" dy="1015" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="jOpBxS9i82jOVr2DRY-d-0" />
         <mxCell id="jOpBxS9i82jOVr2DRY-d-1" parent="jOpBxS9i82jOVr2DRY-d-0" />
@@ -1124,7 +1124,7 @@
             <mxPoint x="228.98823529411766" y="51.801302325580764" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jOpBxS9i82jOVr2DRY-d-52" parent="jOpBxS9i82jOVr2DRY-d-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="S3 Storage Bucket" vertex="1">
+        <mxCell id="jOpBxS9i82jOVr2DRY-d-52" parent="jOpBxS9i82jOVr2DRY-d-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ADLS Gen2" vertex="1">
           <mxGeometry height="60" width="110" x="465" y="1449" as="geometry" />
         </mxCell>
         <mxCell id="jOpBxS9i82jOVr2DRY-d-53" edge="1" parent="jOpBxS9i82jOVr2DRY-d-1" source="jOpBxS9i82jOVr2DRY-d-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;strokeWidth=3;" target="jOpBxS9i82jOVr2DRY-d-41">
@@ -1223,7 +1223,7 @@
         <mxCell id="jOpBxS9i82jOVr2DRY-d-80" parent="jOpBxS9i82jOVr2DRY-d-70" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Auto Loader&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="113" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="jOpBxS9i82jOVr2DRY-d-81" parent="jOpBxS9i82jOVr2DRY-d-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="S3 Storage Bucket" vertex="1">
+        <mxCell id="jOpBxS9i82jOVr2DRY-d-81" parent="jOpBxS9i82jOVr2DRY-d-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ADLS Gen2" vertex="1">
           <mxGeometry height="60" width="110" x="484" y="1048" as="geometry" />
         </mxCell>
         <mxCell id="jOpBxS9i82jOVr2DRY-d-82" edge="1" parent="jOpBxS9i82jOVr2DRY-d-1" source="jOpBxS9i82jOVr2DRY-d-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="jOpBxS9i82jOVr2DRY-d-71">
@@ -1369,7 +1369,7 @@
         <mxCell id="jOpBxS9i82jOVr2DRY-d-130" parent="jOpBxS9i82jOVr2DRY-d-120" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Auto Loader&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="113" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="jOpBxS9i82jOVr2DRY-d-131" parent="jOpBxS9i82jOVr2DRY-d-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="S3 Storage Bucket" vertex="1">
+        <mxCell id="jOpBxS9i82jOVr2DRY-d-131" parent="jOpBxS9i82jOVr2DRY-d-1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ADLS GEN2" vertex="1">
           <mxGeometry height="60" width="110" x="494" y="2098" as="geometry" />
         </mxCell>
         <mxCell id="jOpBxS9i82jOVr2DRY-d-132" edge="1" parent="jOpBxS9i82jOVr2DRY-d-1" source="jOpBxS9i82jOVr2DRY-d-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;" target="jOpBxS9i82jOVr2DRY-d-121">
