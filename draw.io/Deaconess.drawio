@@ -88,15 +88,6 @@
         <mxCell id="0qfo7F2RGYtIp8PdRr8B-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="SAM - Appointments" vertex="1">
           <mxGeometry height="60" width="138" x="306" y="735" as="geometry" />
         </mxCell>
-        <mxCell id="0qfo7F2RGYtIp8PdRr8B-34" edge="1" parent="1" source="0qfo7F2RGYtIp8PdRr8B-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" target="0qfo7F2RGYtIp8PdRr8B-33" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0qfo7F2RGYtIp8PdRr8B-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="159" y="858" as="geometry" />
-        </mxCell>
-        <mxCell id="0qfo7F2RGYtIp8PdRr8B-33" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
-          <mxGeometry height="80" width="80" x="474" y="849" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
