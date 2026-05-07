@@ -1,9 +1,93 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="B_hvE7qAvw4PuRTpC_uR">
-    <mxGraphModel dx="1248" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="840" dy="543" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-19" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="262" width="454" x="107" y="193" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-1" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="106.54666666666667" width="214.21747572815536" x="35.2621359223301" y="2.6199999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-2" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="62.59029126213593" y="20.959999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-3" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="66.99805825242719" y="50.65333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-4" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="150.7456310679612" y="27.07333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-5" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="150.7456310679612" y="68.99333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-6" parent="0qfo7F2RGYtIp8PdRr8B-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SAM - Appointments" vertex="1">
+          <mxGeometry height="26.2" width="135.21" x="38.79" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-7" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="128.38" width="215.98058252427188" x="238.01941747572818" y="133.62" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-8" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="265.347572815534" y="151.95999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-9" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="269.75533980582526" y="181.65333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-10" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="353.5029126213592" y="158.07333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-11" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="353.5029126213592" y="199.99333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-12" parent="0qfo7F2RGYtIp8PdRr8B-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SAM - Diabetes" vertex="1">
+          <mxGeometry height="26.2" width="132.45" x="241.55" y="131" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-13" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
+          <mxGeometry height="106.54666666666667" width="214.21747572815536" y="137.98666666666665" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-14" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="27.328155339805825" y="156.32666666666665" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-15" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="31.73592233009709" y="186.01999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-16" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="115.48349514563108" y="162.44" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-17" parent="0qfo7F2RGYtIp8PdRr8B-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="CMS Logic" vertex="1">
+          <mxGeometry height="24.453333333333333" width="66.11650485436894" x="115.48349514563108" y="204.36" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-18" parent="0qfo7F2RGYtIp8PdRr8B-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SAM - Readmissions" vertex="1">
+          <mxGeometry height="26.2" width="144.47" x="3.53" y="135.37" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Brad - CMS logic was repeated over and over in different sams" vertex="1">
+          <mxGeometry height="30" width="250" x="107" y="147" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Proposal: Define it once, in one place. Propagate it everywhere needed" vertex="1">
+          <mxGeometry height="30" width="273" x="116" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-29" edge="1" parent="1" source="0qfo7F2RGYtIp8PdRr8B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;flowAnimation=1;fillColor=#e1d5e7;strokeColor=#9673a6;" target="0qfo7F2RGYtIp8PdRr8B-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-30" edge="1" parent="1" source="0qfo7F2RGYtIp8PdRr8B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="0qfo7F2RGYtIp8PdRr8B-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-31" edge="1" parent="1" source="0qfo7F2RGYtIp8PdRr8B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;flowAnimation=1;fillColor=#f5f5f5;strokeColor=#666666;" target="0qfo7F2RGYtIp8PdRr8B-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-23" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="SAM - Hospital Finance" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="659" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="SAM - Readmissions" vertex="1">
+          <mxGeometry height="60" width="138" x="307" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="SAM - Diabetes" vertex="1">
+          <mxGeometry height="60" width="138" x="305" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="0qfo7F2RGYtIp8PdRr8B-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="SAM - Appointments" vertex="1">
+          <mxGeometry height="60" width="138" x="306" y="735" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
