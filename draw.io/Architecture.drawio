@@ -5687,11 +5687,11 @@
             <mxRectangle height="41" width="96" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vrs-Lncf0_YRzGYz42uK-51" edge="1" parent="1" source="Vrs-Lncf0_YRzGYz42uK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;flowAnimation=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="Vrs-Lncf0_YRzGYz42uK-38">
+        <mxCell id="Vrs-Lncf0_YRzGYz42uK-51" edge="1" parent="1" source="Vrs-Lncf0_YRzGYz42uK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;flowAnimation=1;fillColor=#d5e8d4;strokeColor=#82b366;" target="Vrs-Lncf0_YRzGYz42uK-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vrs-Lncf0_YRzGYz42uK-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Concept: Schema Evolution" vertex="1">
-          <mxGeometry height="30" width="189" x="211" y="442" as="geometry" />
+        <mxCell id="Vrs-Lncf0_YRzGYz42uK-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Concept: Schema Evolution&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="291" x="189" y="454" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
