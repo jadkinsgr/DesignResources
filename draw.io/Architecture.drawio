@@ -5566,7 +5566,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0ncqyhE_gy7OTkEWLtsp" name="Schema Evolution">
-    <mxGraphModel dx="1080" dy="42" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="-32" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5691,7 +5691,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vrs-Lncf0_YRzGYz42uK-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Concept: Schema Evolution&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="291" x="189" y="454" as="geometry" />
+          <mxGeometry height="30" width="291" x="196" y="455" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
