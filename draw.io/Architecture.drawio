@@ -3233,8 +3233,8 @@
         <mxCell id="sSY2eKa3QBpI6-Jh_qa9-173" edge="1" parent="sSY2eKa3QBpI6-Jh_qa9-1" source="sSY2eKa3QBpI6-Jh_qa9-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.526;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;flowAnimation=1;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.505;entryY=1.076;entryDx=0;entryDy=0;entryPerimeter=0;" target="sSY2eKa3QBpI6-Jh_qa9-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="482" y="488" />
-              <mxPoint x="482" y="531" />
+              <mxPoint x="455" y="488" />
+              <mxPoint x="455" y="531" />
               <mxPoint x="765" y="531" />
             </Array>
             <mxPoint x="751" y="477" as="targetPoint" />
