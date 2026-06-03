@@ -191,6 +191,9 @@
         <mxCell id="b1u6_0uyOUfhp_uKf4XL-23" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="* Realistically probably two jobs.&amp;nbsp;&lt;br&gt;&lt;br&gt;1. A job to run the API Pull and write the json payload to CSV.&lt;br&gt;2. Another Job that mirrors the Smart Import Method, extract those CSVs written&lt;br&gt;&lt;br&gt;Pros - its fast, reliable, no human intervention&lt;div&gt;Cons - Itll be complicated to stand up at first&lt;/div&gt;" vertex="1">
           <mxGeometry height="57" width="570" x="-282" y="637" as="geometry" />
         </mxCell>
+        <mxCell id="VvIsxuMuaPzOS65iljn_-0" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Josh&#39;s Take - we have a good POC, lets see what 3Cloud does before we commit anymore time." vertex="1">
+          <mxGeometry height="30" width="330" x="-212" y="740" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
