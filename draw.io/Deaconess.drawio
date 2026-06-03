@@ -162,6 +162,35 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-20" edge="1" parent="0onkV5o0HtUkhExZCP8f-1" source="b1u6_0uyOUfhp_uKf4XL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b1u6_0uyOUfhp_uKf4XL-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-13" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="CMS API Import Method" vertex="1">
+          <mxGeometry height="60" width="138" x="-277" y="543" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-14" parent="0onkV5o0HtUkhExZCP8f-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" value="DBX Bronze" vertex="1">
+          <mxGeometry height="80" width="60" x="220" y="533" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-18" edge="1" parent="0onkV5o0HtUkhExZCP8f-1" source="b1u6_0uyOUfhp_uKf4XL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;flowAnimation=1;" target="b1u6_0uyOUfhp_uKf4XL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-17" parent="0onkV5o0HtUkhExZCP8f-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Data.CMS.Gov" vertex="1">
+          <mxGeometry height="60" width="120" x="-580" y="543" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-21" edge="1" parent="0onkV5o0HtUkhExZCP8f-1" source="b1u6_0uyOUfhp_uKf4XL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;flowAnimation=1;" target="b1u6_0uyOUfhp_uKf4XL-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-22" connectable="0" parent="b1u6_0uyOUfhp_uKf4XL-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Auto Loader&lt;br&gt;Schema Evolution&lt;br&gt;Schema Inference&lt;br&gt;(History)" vertex="1">
+          <mxGeometry relative="1" x="-0.06" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-19" parent="0onkV5o0HtUkhExZCP8f-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" value="ADLS Gen2&lt;br&gt;(CSVs)" vertex="1">
+          <mxGeometry height="60" width="120" x="-107" y="543" as="geometry" />
+        </mxCell>
+        <mxCell id="b1u6_0uyOUfhp_uKf4XL-23" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="* Realistically probably two jobs.&amp;nbsp;&lt;br&gt;&lt;br&gt;1. A job to run the API Pull and write the json payload to CSV.&lt;br&gt;2. Another Job that mirrors the Smart Import Method, extract those CSVs written" vertex="1">
+          <mxGeometry height="57" width="570" x="-280" y="614" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
