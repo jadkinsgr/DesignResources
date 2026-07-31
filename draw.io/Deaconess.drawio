@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SysOps To Date" id="jkYUq3x64tPmSd_u8nep">
-    <mxGraphModel dx="2452" dy="682" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2484" dy="564" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EoVm5_jSrvia3po4eyGN-0" />
         <mxCell id="EoVm5_jSrvia3po4eyGN-1" parent="EoVm5_jSrvia3po4eyGN-0" />
@@ -348,8 +348,8 @@
         <mxCell id="BGdUHGRC66vZHzxV1MQJ-5" parent="EoVm5_jSrvia3po4eyGN-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="SysOps SAM" vertex="1">
           <mxGeometry height="60" width="120" x="-424" y="1204" as="geometry" />
         </mxCell>
-        <mxCell id="VxJh32DUS_W_5CMJs4M0-0" parent="EoVm5_jSrvia3po4eyGN-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Post Change Notable Differences&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;System View: HAIs (Midas), higher in the updated version, but matching the trend. Likely cause - Updated Midas Data this week.&lt;/li&gt;&lt;li&gt;HC Spark Line Chart Discrepancies on same metric: Sustainability:&amp;nbsp;Average Number of Patients with LOS greater than or equal to 20 days&amp;nbsp; *&lt;/li&gt;&lt;li&gt;Another Sparkline: Sustainability:&amp;nbsp;ED Throughput Times- Arrival to Admit (and discharge)&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="502" x="-884" y="2755" as="geometry" />
+        <mxCell id="VxJh32DUS_W_5CMJs4M0-0" parent="EoVm5_jSrvia3po4eyGN-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Post Change Notable Differences&amp;nbsp;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;System View: HAIs (Midas), higher in the updated version, but matching the trend. Likely cause - Updated Midas Data this week.&lt;/li&gt;&lt;li&gt;HC Spark Line Chart Discrepancies on same metric: Sustainability:&amp;nbsp;Average Number of Patients with LOS greater than or equal to 20 days&amp;nbsp; *&lt;/li&gt;&lt;li&gt;Another Sparkline: Sustainability:&amp;nbsp;ED Throughput Times- Arrival to Admit (and discharge)&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Monthly RVU - Deaconess System&lt;/li&gt;&lt;li&gt;Imaging procedures - Kentucky Region (volume of procedures)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="222" width="527" x="-884" y="2755" as="geometry" />
         </mxCell>
         <mxCell id="VxJh32DUS_W_5CMJs4M0-3" edge="1" parent="EoVm5_jSrvia3po4eyGN-1" source="VxJh32DUS_W_5CMJs4M0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;strokeWidth=3;" target="VxJh32DUS_W_5CMJs4M0-2" value="">
           <mxGeometry relative="1" as="geometry" />
