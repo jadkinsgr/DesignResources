@@ -525,7 +525,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Silo Idea" id="EOYxm4ruSm4Z4qqrybjo">
-    <mxGraphModel dx="2897" dy="1313" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="1313" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lsiy6grYOzZcOpNLdy37-0" />
         <mxCell id="lsiy6grYOzZcOpNLdy37-1" parent="lsiy6grYOzZcOpNLdy37-0" />
@@ -602,13 +602,13 @@
             <mxPoint x="1235" y="967" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JiPkqIuZJaMUPYlQUjlF-22" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" value="" vertex="1">
+        <mxCell id="JiPkqIuZJaMUPYlQUjlF-22" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=none;" value="" vertex="1">
           <mxGeometry height="128" width="124" x="197" y="486" as="geometry" />
         </mxCell>
-        <mxCell id="JiPkqIuZJaMUPYlQUjlF-23" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" value="" vertex="1">
+        <mxCell id="JiPkqIuZJaMUPYlQUjlF-23" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=none;" value="" vertex="1">
           <mxGeometry height="128" width="124" x="270" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="JiPkqIuZJaMUPYlQUjlF-24" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" value="" vertex="1">
+        <mxCell id="JiPkqIuZJaMUPYlQUjlF-24" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=none;" value="" vertex="1">
           <mxGeometry height="128" width="124" x="190" y="578" as="geometry" />
         </mxCell>
         <mxCell id="JiPkqIuZJaMUPYlQUjlF-25" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" value="" vertex="1">
@@ -631,6 +631,15 @@
         </mxCell>
         <mxCell id="JiPkqIuZJaMUPYlQUjlF-31" parent="lsiy6grYOzZcOpNLdy37-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=6;opacity=65;" value="" vertex="1">
           <mxGeometry height="360" width="748" x="123" y="2038" as="geometry" />
+        </mxCell>
+        <mxCell id="JiPkqIuZJaMUPYlQUjlF-32" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="128" width="124" x="175" y="1705" as="geometry" />
+        </mxCell>
+        <mxCell id="JiPkqIuZJaMUPYlQUjlF-33" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="128" width="124" x="248" y="1749" as="geometry" />
+        </mxCell>
+        <mxCell id="JiPkqIuZJaMUPYlQUjlF-34" parent="lsiy6grYOzZcOpNLdy37-1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#82b366;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="128" width="124" x="168" y="1797" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
