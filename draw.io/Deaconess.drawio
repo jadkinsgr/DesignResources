@@ -717,7 +717,7 @@
         <mxCell id="Xti4f7xke28tnYrmOza2-6" parent="lsiy6grYOzZcOpNLdy37-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=4;" value="Information exchange - Inpatients only" vertex="1">
           <mxGeometry height="36" width="763" x="1425" y="1618" as="geometry" />
         </mxCell>
-        <mxCell id="Xti4f7xke28tnYrmOza2-7" edge="1" parent="lsiy6grYOzZcOpNLdy37-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;" value="">
+        <mxCell id="Xti4f7xke28tnYrmOza2-7" edge="1" parent="lsiy6grYOzZcOpNLdy37-1" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#d5e8d4;strokeColor=#82b366;flowAnimation=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1715" y="1702.67" as="sourcePoint" />
             <mxPoint x="1919.67" y="1702.67" as="targetPoint" />
