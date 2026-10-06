@@ -734,8 +734,8 @@
         <mxCell id="A8vwZzcwra4aUBuCF-gX-0" parent="aiLlsyRmSViC1vHcngaP-1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" value="" vertex="1">
           <mxGeometry height="75" width="75" x="1216" y="2325" as="geometry" />
         </mxCell>
-        <mxCell id="A8vwZzcwra4aUBuCF-gX-1" parent="aiLlsyRmSViC1vHcngaP-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.git_repository;" value="" vertex="1">
-          <mxGeometry height="78" width="60" x="1316" y="2320" as="geometry" />
+        <mxCell id="A8vwZzcwra4aUBuCF-gX-1" parent="aiLlsyRmSViC1vHcngaP-1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.git_repository;" value="v" vertex="1">
+          <mxGeometry height="78" width="60" x="1311" y="2328" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
