@@ -727,7 +727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Governance Process" id="25PflxXGS-kkXAgsNxBt">
-    <mxGraphModel dx="1027" dy="1397" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="1218" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aiLlsyRmSViC1vHcngaP-0" />
         <mxCell id="aiLlsyRmSViC1vHcngaP-1" parent="aiLlsyRmSViC1vHcngaP-0" />
@@ -778,7 +778,7 @@
           <mxGeometry height="60" width="160" x="1135" y="908" as="geometry" />
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-9" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" value="Information Governor&lt;br&gt;(Name)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- From Data Domains - Andrew C.&lt;/div&gt;" vertex="1">
-          <mxGeometry height="105" width="170" x="1041" y="1002" as="geometry" />
+          <mxGeometry height="105" width="329" x="929" y="1049" as="geometry" />
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-10" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" value="Analytic Steward&#xa;(Name)" vertex="1">
           <mxGeometry height="60" width="160" x="1796" y="837" as="geometry" />
@@ -788,24 +788,6 @@
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-12" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" value="Analytic Steward&#xa;(Name)" vertex="1">
           <mxGeometry height="60" width="160" x="1796" y="977" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-13" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2E75B6;fontColor=#FFFFFF;strokeColor=#2E75B6;fontStyle=1;" value="Workstream 3" vertex="1">
-          <mxGeometry height="60" width="160" x="915" y="1168" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-14" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" value="Workstream Owner&#xa;(Name)" vertex="1">
-          <mxGeometry height="60" width="160" x="1135" y="1168" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-15" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;" value="Information Governor&#xa;(Name)" vertex="1">
-          <mxGeometry height="60" width="170" x="1355" y="1168" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-16" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" value="Analytic Steward&#xa;(Name)" vertex="1">
-          <mxGeometry height="60" width="160" x="1595" y="1098" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-17" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" value="Analytic Steward&#xa;(Name)" vertex="1">
-          <mxGeometry height="60" width="160" x="1729" y="1168" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-18" parent="aiLlsyRmSViC1vHcngaP-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" value="Analytic Steward&#xa;(Name)" vertex="1">
-          <mxGeometry height="60" width="160" x="1595" y="1238" as="geometry" />
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-19" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#1F3A5F;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-1">
           <mxGeometry relative="1" as="geometry">
@@ -818,27 +800,13 @@
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-20" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#1F3A5F;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-21" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;strokeColor=#1F3A5F;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="894.9" y="939" />
-              <mxPoint x="894.9" y="1198" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-22" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-1" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-23" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-7" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-24" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-13" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-25" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-2" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-27" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-14" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-28" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-4">
@@ -848,15 +816,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YOtyAuwBiD_vg4zqBEwi-30" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-34" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-35" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="YOtyAuwBiD_vg4zqBEwi-36" edge="1" parent="aiLlsyRmSViC1vHcngaP-1" source="YOtyAuwBiD_vg4zqBEwi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="YOtyAuwBiD_vg4zqBEwi-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B4xHQxY8jWiHBMeqUuNj-0" parent="aiLlsyRmSViC1vHcngaP-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IG general not workstream - Domains" vertex="1">
@@ -879,6 +838,9 @@
         </mxCell>
         <mxCell id="B4xHQxY8jWiHBMeqUuNj-9" parent="aiLlsyRmSViC1vHcngaP-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Analytical stewards within each data domain&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="164" width="324" x="3252" y="674" as="geometry" />
+        </mxCell>
+        <mxCell id="aHi5hXwsHTgBVua8sz3J-0" parent="aiLlsyRmSViC1vHcngaP-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1F3A5F;fontColor=#FFFFFF;strokeColor=#1F3A5F;fontStyle=1;fontSize=16;" value="Data Governance Office" vertex="1">
+          <mxGeometry height="127" width="356" x="52" y="736" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
