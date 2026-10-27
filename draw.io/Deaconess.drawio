@@ -925,16 +925,10 @@
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-25" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-26" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-27" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=14;fontStyle=1;" value="SysOps" vertex="1">
           <mxGeometry height="50" width="220" x="850" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-28" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-29" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-30" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=14;fontStyle=1;" value="Readmissions" vertex="1">
@@ -943,25 +937,16 @@
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-31" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-32" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-33" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=14;fontStyle=1;" value="Readmissions" vertex="1">
+        <mxCell id="Yz8xhJCZvHCll-mu6_GU-33" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=14;fontStyle=1;" value="CNO" vertex="1">
           <mxGeometry height="50" width="220" x="850" y="360" as="geometry" />
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-34" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-35" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-36" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=14;fontStyle=1;" value="HVBP" vertex="1">
+        <mxCell id="Yz8xhJCZvHCll-mu6_GU-36" parent="1" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DBEAFE;strokeColor=#3B82F6;fontSize=14;fontStyle=1;" value="ETC" vertex="1">
           <mxGeometry height="50" width="220" x="850" y="440" as="geometry" />
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-37" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-38" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-13" style="endArrow=classic;html=1;strokeColor=#6B7280;strokeWidth=2;endSize=4;entryX=0;entryY=0.7;entryDx=0;entryDy=0;" target="Yz8xhJCZvHCll-mu6_GU-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-39" parent="1" style="text;html=0;align=left;verticalAlign=middle;fontSize=20;fontStyle=1;fontColor=#111827;" value="Proposal: remap at the end" vertex="1">
@@ -1147,12 +1132,6 @@
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-86" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-56" style="endArrow=classic;html=1;strokeColor=#2E9E5B;strokeWidth=2;endSize=4;" target="Yz8xhJCZvHCll-mu6_GU-76">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-87" parent="1" style="text;html=0;fontSize=12;fontStyle=2;fontColor=#2E9E5B;" value="10 lines the whole way" vertex="1">
-          <mxGeometry height="24" width="300" x="390" y="1020" as="geometry" />
-        </mxCell>
-        <mxCell id="Yz8xhJCZvHCll-mu6_GU-88" parent="1" style="text;html=0;fontSize=12;fontStyle=2;fontColor=#2E9E5B;" value="10 lines out" vertex="1">
-          <mxGeometry height="24" width="90" x="1260" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
