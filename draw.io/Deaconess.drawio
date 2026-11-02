@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="7">
+<mxfile host="app.diagrams.net" pages="8">
   <diagram name="CMS Logic" id="B_hvE7qAvw4PuRTpC_uR">
     <mxGraphModel dx="1394" dy="819" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1131,6 +1131,200 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yz8xhJCZvHCll-mu6_GU-86" edge="1" parent="1" source="Yz8xhJCZvHCll-mu6_GU-56" style="endArrow=classic;html=1;strokeColor=#2E9E5B;strokeWidth=2;endSize=4;" target="Yz8xhJCZvHCll-mu6_GU-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DusEM1N32yL0SsJ9JeEd" name="Page-8">
+    <mxGraphModel dx="1249" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-1" parent="1" style="text;html=1;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;" value="RPM Onboarding: 30-Day Window Scenarios (example: onboarding Jan 1, 2026)" vertex="1">
+          <mxGeometry height="30" width="800" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-2" parent="1" style="rounded=0;fillColor=#DAE8FC;strokeColor=none;opacity=50;" value="" vertex="1">
+          <mxGeometry height="490" width="540" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-3" parent="1" style="rounded=0;fillColor=#F5F5F5;strokeColor=none;opacity=70;" value="" vertex="1">
+          <mxGeometry height="490" width="126" x="800" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-4" parent="1" style="rounded=1;fillColor=#6C8EBF;strokeColor=#4A6FA5;fontColor=#FFFFFF;fontStyle=1;fontSize=12;" value="30-day effective window (Jan 1 to Jan 30)" vertex="1">
+          <mxGeometry height="28" width="540" x="260" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-5" parent="1" style="rounded=1;fillColor=#999999;strokeColor=#666666;fontColor=#FFFFFF;fontStyle=1;fontSize=12;" value="After window" vertex="1">
+          <mxGeometry height="28" width="126" x="800" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-6" parent="1" style="text;html=1;align=center;fontSize=10;" value="Jan 1&lt;br&gt;(Day 1)" vertex="1">
+          <mxGeometry height="30" width="40" x="240" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-7" parent="1" style="text;html=1;align=center;fontSize=10;" value="Jan 15" vertex="1">
+          <mxGeometry height="30" width="40" x="492" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-8" parent="1" style="text;html=1;align=center;fontSize=10;" value="Jan 30&lt;br&gt;(Day 30)" vertex="1">
+          <mxGeometry height="30" width="40" x="762" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-9" parent="1" style="text;html=1;align=center;fontSize=10;" value="Feb 6" vertex="1">
+          <mxGeometry height="30" width="40" x="906" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-10" edge="1" parent="1" style="endArrow=none;dashed=1;strokeColor=#4A6FA5;strokeWidth=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-11" edge="1" parent="1" style="endArrow=none;dashed=1;strokeColor=#B85450;strokeWidth=2;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="120" as="sourcePoint" />
+            <mxPoint x="800" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 1&lt;/b&gt;&lt;br&gt;Onboarded, no admit, no discharge, no readmit" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-13" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="190" as="sourcePoint" />
+            <mxPoint x="920" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-14" parent="1" style="ellipse;fillColor=#1BA1E2;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="252" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-15" parent="1" style="text;html=1;align=left;fontSize=10;" value="RPM onboarding&lt;br&gt;Jan 1" vertex="1">
+          <mxGeometry height="30" width="100" x="270" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-16" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="No events in window" vertex="1">
+          <mxGeometry height="22" width="200" x="470" y="155" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 2&lt;/b&gt;&lt;br&gt;Admits in window, does not readmit" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-18" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="920" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-19" parent="1" style="ellipse;fillColor=#1BA1E2;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="252" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-20" parent="1" style="text;html=1;align=left;fontSize=10;" value="RPM onboarding&lt;br&gt;Jan 1" vertex="1">
+          <mxGeometry height="30" width="100" x="270" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-21" parent="1" style="ellipse;fillColor=#FFE6CC;strokeColor=#D79B00;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="414" y="302" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-22" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Jan 10" vertex="1">
+          <mxGeometry height="22" width="40" x="402" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-23" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="No readmit" vertex="1">
+          <mxGeometry height="22" width="200" x="580" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 3&lt;/b&gt;&lt;br&gt;Admit, discharge, and readmit all inside the window" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-25" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="920" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-26" parent="1" style="ellipse;fillColor=#1BA1E2;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="252" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-27" parent="1" style="text;html=1;align=left;fontSize=10;" value="RPM onboarding&lt;br&gt;Jan 1" vertex="1">
+          <mxGeometry height="30" width="100" x="270" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-28" parent="1" style="ellipse;fillColor=#FFE6CC;strokeColor=#D79B00;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="378" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-29" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Jan 8" vertex="1">
+          <mxGeometry height="22" width="40" x="366" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-30" parent="1" style="ellipse;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="486" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-31" parent="1" style="text;html=1;align=center;fontSize=10;" value="Discharge&lt;br&gt;Jan 14" vertex="1">
+          <mxGeometry height="30" width="44" x="472" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-32" parent="1" style="ellipse;fillColor=#F8CECC;strokeColor=#B85450;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="630" y="422" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-33" parent="1" style="text;html=1;align=center;fontSize=10;" value="Readmit&lt;br&gt;Jan 22" vertex="1">
+          <mxGeometry height="22" width="40" x="618" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-34" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="Readmit lands inside window" vertex="1">
+          <mxGeometry height="22" width="200" x="660" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 4&lt;/b&gt;&lt;br&gt;Admit and discharge in window, readmit just after the window closes" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-36" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="550" as="sourcePoint" />
+            <mxPoint x="920" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-37" parent="1" style="ellipse;fillColor=#1BA1E2;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="252" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-38" parent="1" style="text;html=1;align=left;fontSize=10;" value="RPM onboarding&lt;br&gt;Jan 1" vertex="1">
+          <mxGeometry height="30" width="100" x="270" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-39" parent="1" style="ellipse;fillColor=#FFE6CC;strokeColor=#D79B00;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="432" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-40" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Jan 12" vertex="1">
+          <mxGeometry height="22" width="40" x="420" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-41" parent="1" style="ellipse;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="540" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-42" parent="1" style="text;html=1;align=center;fontSize=10;" value="Discharge&lt;br&gt;Jan 18" vertex="1">
+          <mxGeometry height="30" width="44" x="526" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-43" parent="1" style="ellipse;fillColor=#F8CECC;strokeColor=#B85450;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="810" y="542" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-44" parent="1" style="text;html=1;align=center;fontSize=10;" value="Readmit&lt;br&gt;Feb 1" vertex="1">
+          <mxGeometry height="22" width="40" x="800" y="506" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-45" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#B85450;whiteSpace=wrap;" value="Readmit misses the window by a day or more" vertex="1">
+          <mxGeometry height="22" width="200" x="580" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-46" parent="1" style="rounded=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;" value="" vertex="1">
+          <mxGeometry height="40" width="886" x="40" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-47" parent="1" style="ellipse;fillColor=#1BA1E2;strokeColor=#006EAF;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="60" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-48" parent="1" style="text;html=1;align=left;fontSize=11;" value="RPM onboarding" vertex="1">
+          <mxGeometry height="20" width="110" x="82" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-49" parent="1" style="ellipse;fillColor=#FFE6CC;strokeColor=#D79B00;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="220" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-50" parent="1" style="text;html=1;align=left;fontSize=11;" value="Admit" vertex="1">
+          <mxGeometry height="20" width="60" x="242" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-51" parent="1" style="ellipse;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="330" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-52" parent="1" style="text;html=1;align=left;fontSize=11;" value="Discharge" vertex="1">
+          <mxGeometry height="20" width="70" x="352" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-53" parent="1" style="ellipse;fillColor=#F8CECC;strokeColor=#B85450;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="450" y="667" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-54" parent="1" style="text;html=1;align=left;fontSize=11;" value="Readmit" vertex="1">
+          <mxGeometry height="20" width="70" x="472" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-55" parent="1" style="text;html=1;align=left;fontSize=11;" value="Blue shading = in window. Gray shading = after window. Red dashed line = window closes (Jan 30)." vertex="1">
+          <mxGeometry height="20" width="360" x="560" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-56" edge="1" parent="1" source="UkXfHthn2AxCBnyAEhiE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="UkXfHthn2AxCBnyAEhiE-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
