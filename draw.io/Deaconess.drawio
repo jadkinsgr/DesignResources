@@ -1137,7 +1137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DusEM1N32yL0SsJ9JeEd" name="RPM Program">
-    <mxGraphModel dx="1249" dy="616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1505" dy="742" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1195,7 +1195,7 @@
         <mxCell id="UkXfHthn2AxCBnyAEhiE-15" parent="1" style="text;html=1;align=left;fontSize=10;" value="RPM onboarding&lt;br&gt;Jan 1" vertex="1">
           <mxGeometry height="30" width="100" x="270" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="UkXfHthn2AxCBnyAEhiE-16" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="No events in window" vertex="1">
+        <mxCell id="UkXfHthn2AxCBnyAEhiE-16" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="No events in window - Not Applicable Filter" vertex="1">
           <mxGeometry height="22" width="200" x="470" y="155" as="geometry" />
         </mxCell>
         <mxCell id="UkXfHthn2AxCBnyAEhiE-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 2&lt;/b&gt;&lt;br&gt;Admits in window, does not readmit" vertex="1">
