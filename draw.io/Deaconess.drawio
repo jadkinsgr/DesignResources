@@ -1137,7 +1137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DusEM1N32yL0SsJ9JeEd" name="RPM Program">
-    <mxGraphModel dx="2032" dy="1232" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1366,7 +1366,7 @@
             <mxPoint x="795" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hw7mLXQvhZplF7KObUW1-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 1&lt;/b&gt;&lt;br&gt;Onboarded, no admit, no discharge, no readmit&lt;br&gt;&lt;font color=&quot;#4A6FA5&quot;&gt;&lt;i&gt;RPMStatus: No Index Admission&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Hw7mLXQvhZplF7KObUW1-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 1&lt;/b&gt;&lt;br&gt;Onboarded, no admit, no discharge, no readmit&lt;br&gt;&lt;font color=&quot;#4A6FA5&quot;&gt;&lt;i&gt;RPMStatus: Not Applicable&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="35" y="940" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-13" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
@@ -1403,7 +1403,7 @@
           <mxGeometry height="16" width="16" x="415" y="1102" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-22" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Jan 10" vertex="1">
-          <mxGeometry height="22" width="40" x="403" y="1076" as="geometry" />
+          <mxGeometry height="22" width="40" x="403" y="1067" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-23" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="No readmit" vertex="1">
           <mxGeometry height="22" width="200" x="575" y="1075" as="geometry" />
@@ -1427,7 +1427,7 @@
           <mxGeometry height="16" width="16" x="377" y="1222" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-29" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Jan 8" vertex="1">
-          <mxGeometry height="22" width="40" x="365" y="1196" as="geometry" />
+          <mxGeometry height="22" width="40" x="365" y="1187" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-30" parent="1" style="ellipse;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="16" width="16" x="489" y="1222" as="geometry" />
@@ -1439,10 +1439,10 @@
           <mxGeometry height="16" width="16" x="638" y="1222" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-33" parent="1" style="text;html=1;align=center;fontSize=10;" value="Readmit&lt;br&gt;Jan 22" vertex="1">
-          <mxGeometry height="22" width="40" x="626" y="1196" as="geometry" />
+          <mxGeometry height="22" width="40" x="626" y="1187" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-34" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#555555;" value="Readmit lands inside window" vertex="1">
-          <mxGeometry height="22" width="200" x="575" y="1255" as="geometry" />
+          <mxGeometry height="22" width="200" x="560" y="1244" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 4&lt;/b&gt;&lt;br&gt;Admit and discharge in window, readmit just after the window closes&lt;br&gt;&lt;font color=&quot;#4A6FA5&quot;&gt;&lt;i&gt;RPMStatus: Admit in window, Readmit outside onboarding window&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="35" y="1300" as="geometry" />
@@ -1463,7 +1463,7 @@
           <mxGeometry height="16" width="16" x="452" y="1342" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-40" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Jan 12" vertex="1">
-          <mxGeometry height="22" width="40" x="440" y="1316" as="geometry" />
+          <mxGeometry height="22" width="40" x="440" y="1309" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-41" parent="1" style="ellipse;fillColor=#E1D5E7;strokeColor=#9673A6;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="16" width="16" x="564" y="1342" as="geometry" />
@@ -1475,10 +1475,10 @@
           <mxGeometry height="16" width="16" x="824" y="1342" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-44" parent="1" style="text;html=1;align=center;fontSize=10;" value="Readmit&lt;br&gt;Feb 1" vertex="1">
-          <mxGeometry height="22" width="40" x="812" y="1316" as="geometry" />
+          <mxGeometry height="22" width="40" x="812" y="1309" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-45" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#B85450;whiteSpace=wrap;" value="Readmit misses the window" vertex="1">
-          <mxGeometry height="22" width="190" x="595" y="1375" as="geometry" />
+          <mxGeometry height="22" width="190" x="600" y="1360" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;b&gt;Scenario 5&lt;/b&gt;&lt;br&gt;Onboarded, but the first admission happens after the window closes&lt;br&gt;&lt;font color=&quot;#4A6FA5&quot;&gt;&lt;i&gt;RPMStatus: Admission After Window&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="35" y="1420" as="geometry" />
@@ -1499,10 +1499,10 @@
           <mxGeometry height="16" width="16" x="861" y="1462" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-51" parent="1" style="text;html=1;align=center;fontSize=10;" value="Admit&lt;br&gt;Feb 3" vertex="1">
-          <mxGeometry height="22" width="40" x="849" y="1436" as="geometry" />
+          <mxGeometry height="22" width="40" x="849" y="1429" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-52" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#B85450;whiteSpace=wrap;" value="No events in window; first admit lands after day 30" vertex="1">
-          <mxGeometry height="22" width="300" x="465" y="1435" as="geometry" />
+          <mxGeometry height="22" width="300" x="393" y="1475" as="geometry" />
         </mxCell>
         <mxCell id="Hw7mLXQvhZplF7KObUW1-53" parent="1" style="rounded=1;fillColor=#FFFFFF;strokeColor=#CCCCCC;" value="" vertex="1">
           <mxGeometry height="40" width="886" x="35" y="1575" as="geometry" />
