@@ -1396,7 +1396,7 @@
         <mxCell id="QlOf3T7gEYbb4ubI8shA-87" parent="1" style="text;html=1;align=center;fontSize=10;" value="Dec 31, 2026" vertex="1">
           <mxGeometry height="30" width="100" x="925" y="2193" as="geometry" />
         </mxCell>
-        <mxCell id="QlOf3T7gEYbb4ubI8shA-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;div&gt;&lt;b&gt;Scenario 1&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Inpatient Admissions&lt;/b&gt;&lt;br&gt;Before RPM: 10&lt;br&gt;After RPM: 2&lt;br&gt;&lt;font color=&quot;#5F8F47&quot;&gt;&lt;i&gt;Change: 10 → 2 (-80%)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="QlOf3T7gEYbb4ubI8shA-88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;div&gt;&lt;b&gt;Scenario 1 - Patient A&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Inpatient Admissions&lt;/b&gt;&lt;br&gt;Before RPM: 10&lt;br&gt;After RPM: 2&lt;br&gt;&lt;font color=&quot;#5F8F47&quot;&gt;&lt;i&gt;Change: 10 → 2 (-80%)&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="35" y="1838" as="geometry" />
         </mxCell>
         <mxCell id="QlOf3T7gEYbb4ubI8shA-89" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
@@ -1453,7 +1453,7 @@
         <mxCell id="QlOf3T7gEYbb4ubI8shA-105" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#5F8F47;" value="2 admits in the 12 months after" vertex="1">
           <mxGeometry height="22" width="320" x="635" y="1852" as="geometry" />
         </mxCell>
-        <mxCell id="QlOf3T7gEYbb4ubI8shA-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;div&gt;&lt;b&gt;Scenario 2&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Observation Stays&lt;/b&gt;&lt;br&gt;Before RPM: 6&lt;br&gt;After RPM: 1&lt;br&gt;&lt;font color=&quot;#5F8F47&quot;&gt;&lt;i&gt;Change: 6 → 1 (-83%)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="QlOf3T7gEYbb4ubI8shA-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;div&gt;&lt;b&gt;Scenario 2 - Patient B&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Observation Stays&lt;/b&gt;&lt;br&gt;Before RPM: 6&lt;br&gt;After RPM: 1&lt;br&gt;&lt;font color=&quot;#5F8F47&quot;&gt;&lt;i&gt;Change: 6 → 1 (-83%)&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="35" y="1958" as="geometry" />
         </mxCell>
         <mxCell id="QlOf3T7gEYbb4ubI8shA-107" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
@@ -1495,7 +1495,7 @@
         <mxCell id="QlOf3T7gEYbb4ubI8shA-118" parent="1" style="text;html=1;align=center;fontSize=11;fontStyle=2;fontColor=#5F8F47;" value="1 obs stays in the 12 months after" vertex="1">
           <mxGeometry height="22" width="320" x="635" y="1972" as="geometry" />
         </mxCell>
-        <mxCell id="QlOf3T7gEYbb4ubI8shA-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;div&gt;&lt;b&gt;Scenario 3&lt;/b&gt;&lt;/div&gt;&lt;b&gt;ED Encounters&lt;/b&gt;&lt;br&gt;Before RPM: 14&lt;br&gt;After RPM: 4&lt;br&gt;&lt;font color=&quot;#5F8F47&quot;&gt;&lt;i&gt;Change: 14 → 4 (-71%)&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="QlOf3T7gEYbb4ubI8shA-119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#666666;align=left;spacingLeft=8;fontSize=11;" value="&lt;div&gt;&lt;b&gt;Scenario 3 - Patient C&lt;/b&gt;&lt;/div&gt;&lt;b&gt;ED Encounters&lt;/b&gt;&lt;br&gt;Before RPM: 14&lt;br&gt;After RPM: 4&lt;br&gt;&lt;font color=&quot;#5F8F47&quot;&gt;&lt;i&gt;Change: 14 → 4 (-71%)&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="200" x="35" y="2078" as="geometry" />
         </mxCell>
         <mxCell id="QlOf3T7gEYbb4ubI8shA-120" edge="1" parent="1" style="endArrow=classic;strokeWidth=3;strokeColor=#666666;" value="">
