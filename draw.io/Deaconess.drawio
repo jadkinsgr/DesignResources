@@ -397,7 +397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sarah K Report" id="VKSQ_RN33bu-dqPsG6tU">
-    <mxGraphModel dx="2614" dy="727" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3098" dy="1066" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LKGcbrB1-OqXUQAEav_i-0" />
         <mxCell id="LKGcbrB1-OqXUQAEav_i-1" parent="LKGcbrB1-OqXUQAEav_i-0" />
@@ -682,6 +682,60 @@
         </mxCell>
         <mxCell id="VqWXYKMzs9ahI9unrQLf-57" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#1F3A5F;strokeWidth=2;align=left;spacingLeft=14;spacingRight=14;fontSize=13;arcSize=6;" value="&lt;b&gt;Takeaway:&lt;/b&gt; Going from department grain to service area grain collapses rows that share a HAR. A distinct HAR count matches at both grains, but a row count or a sum of anything on the HAR (charges, new patient flags) gets inflated at the department grain and then double counted when it rolls up. It does not always happen, since a HAR with one department stays one row at both grains, but it can happen any time departments sit under the same Service Area." vertex="1">
           <mxGeometry height="90" width="1360" x="-637" y="1731" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-0" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF3F8;strokeColor=#9DB4CC;arcSize=8;" value="" vertex="1">
+          <mxGeometry height="72" width="1160" x="-565" y="1947" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-1" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=14;fontColor=#1F3A5F;" value="&lt;b&gt;Parameters&lt;/b&gt;" vertex="1">
+          <mxGeometry height="36" width="100" x="-551" y="1965" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-2" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="Service Area" vertex="1">
+          <mxGeometry height="16" width="240" x="-435" y="1951" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-3" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;align=left;spacingLeft=10;fontSize=13;arcSize=10;" value="Main Campus" vertex="1">
+          <mxGeometry height="38" width="240" x="-435" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-4" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="&amp;#9660;" vertex="1">
+          <mxGeometry height="38" width="35" x="-230" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-5" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="Department Specialty" vertex="1">
+          <mxGeometry height="16" width="240" x="-180" y="1951" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-6" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;align=left;spacingLeft=10;fontSize=13;arcSize=10;" value="Cardiology" vertex="1">
+          <mxGeometry height="38" width="240" x="-180" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-7" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="&amp;#9660;" vertex="1">
+          <mxGeometry height="38" width="35" x="25" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-8" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="Department" vertex="1">
+          <mxGeometry height="16" width="240" x="75" y="1951" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-9" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;align=left;spacingLeft=10;fontSize=13;arcSize=10;" value="All" vertex="1">
+          <mxGeometry height="38" width="240" x="75" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-10" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="&amp;#9660;" vertex="1">
+          <mxGeometry height="38" width="35" x="280" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-11" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=left;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="State - Region: Ex IL" vertex="1">
+          <mxGeometry height="16" width="240" x="330" y="1951" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-12" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#888888;align=left;spacingLeft=10;fontSize=13;arcSize=10;" value="All" vertex="1">
+          <mxGeometry height="38" width="240" x="330" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-13" parent="LKGcbrB1-OqXUQAEav_i-1" style="text;html=1;align=center;verticalAlign=middle;fontSize=11;fontColor=#666666;" value="&amp;#9660;" vertex="1">
+          <mxGeometry height="38" width="35" x="535" y="1969" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-14" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=16;fontStyle=1;fontColor=#1F3A5F;arcSize=4;" value="Service Area volumes trended over time&lt;div&gt;(Line Chart)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="570" x="-565" y="2039" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-15" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=16;fontStyle=1;fontColor=#1F3A5F;arcSize=4;" value="Service Area Stacked bar chart" vertex="1">
+          <mxGeometry height="260" width="570" x="25" y="2039" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-16" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=16;fontStyle=1;fontColor=#1F3A5F;arcSize=4;" value="Specialties that make up the Service Area&lt;div&gt;(Line Chart)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="1160" x="-565" y="2319" as="geometry" />
+        </mxCell>
+        <mxCell id="UGGXoQNOLP8-xQ6wxlz6-17" parent="LKGcbrB1-OqXUQAEav_i-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=16;fontStyle=1;fontColor=#1F3A5F;arcSize=4;" value="Departments that make up the Specialties&lt;div&gt;(Line Chart)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="1160" x="-565" y="2607" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1299,7 +1353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DusEM1N32yL0SsJ9JeEd" name="RPM Program">
-    <mxGraphModel dx="1273" dy="-125" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="-55" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
