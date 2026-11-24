@@ -92,7 +92,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Dbx concept" id="hy9NmtubJ9lIhmZJwSGJ">
-    <mxGraphModel dx="1857" dy="534" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2681" dy="1328" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0onkV5o0HtUkhExZCP8f-0" />
         <mxCell id="0onkV5o0HtUkhExZCP8f-1" parent="0onkV5o0HtUkhExZCP8f-0" />
@@ -213,6 +213,78 @@
         </mxCell>
         <mxCell id="VvIsxuMuaPzOS65iljn_-0" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Josh&#39;s Take - we have a good POC, lets see what 3Cloud does before we commit anymore time." vertex="1">
           <mxGeometry height="30" width="330" x="-212" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-0" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;fontSize=22;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Helvetica;" value="Databricks Layout: Catalog = Environment, Schema = Product, Table = Dataset" vertex="1">
+          <mxGeometry height="40" width="1300" x="-578" y="804" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-1" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;fontSize=14;align=left;verticalAlign=middle;fontColor=#666666;fontFamily=Helvetica;" value="Example product: Readmissions" vertex="1">
+          <mxGeometry height="26" width="1300" x="-578" y="842" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-2" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;fontSize=15;fontStyle=1;align=left;verticalAlign=middle;fontFamily=Helvetica;" value="How to read it" vertex="1">
+          <mxGeometry height="30" width="250" x="-578" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-3" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;spacingLeft=8;spacingRight=8;align=left;fontFamily=Helvetica;" value="&lt;b&gt;Catalog&lt;/b&gt;&lt;br&gt;Environment: dev, test, or prod" vertex="1">
+          <mxGeometry height="90" width="250" x="-578" y="934" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-4" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;spacingLeft=8;spacingRight=8;align=left;fontFamily=Helvetica;" value="&lt;b&gt;Schema&lt;/b&gt;&lt;br&gt;Product: one schema per data product, like readmissions" vertex="1">
+          <mxGeometry height="90" width="250" x="-578" y="1044" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-5" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=13;spacingLeft=8;spacingRight=8;align=left;fontFamily=Helvetica;" value="&lt;b&gt;Table&lt;/b&gt;&lt;br&gt;Dataset inside a product, like the reporting table summary_facility_account" vertex="1">
+          <mxGeometry height="90" width="250" x="-578" y="1154" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-6" parent="0onkV5o0HtUkhExZCP8f-1" style="text;html=1;whiteSpace=wrap;fontSize=12;fontColor=#666666;align=left;verticalAlign=top;fontFamily=Helvetica;" value="catalog → schema → table" vertex="1">
+          <mxGeometry height="30" width="250" x="-578" y="1274" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-7" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;verticalAlign=top;fontSize=16;arcSize=4;spacingTop=8;fontFamily=Helvetica;" value="&lt;b&gt;dev catalog&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:12px&#39;&gt;Development environment&lt;/font&gt;" vertex="1">
+          <mxGeometry height="440" width="300" x="-288" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-8" parent="97dc4DNbBhvb5fI7alKX-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;fontSize=14;arcSize=6;spacingTop=6;fontFamily=Helvetica;" value="&lt;b&gt;readmissions&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;schema (product)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="260" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-9" parent="97dc4DNbBhvb5fI7alKX-8" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;" value="&lt;b&gt;summary_facility_account&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;reporting table&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="25" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-10" parent="97dc4DNbBhvb5fI7alKX-7" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;fontColor=#9673a6;fontSize=12;fontFamily=Helvetica;" value="other products&lt;br&gt;(more schemas)" vertex="1">
+          <mxGeometry height="70" width="260" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-11" parent="97dc4DNbBhvb5fI7alKX-7" style="text;html=1;fontSize=11;fontColor=#444444;align=center;fontFamily=Courier New;" value="dev.readmissions.summary_facility_account" vertex="1">
+          <mxGeometry height="20" width="280" x="10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-12" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;verticalAlign=top;fontSize=16;arcSize=4;spacingTop=8;fontFamily=Helvetica;" value="&lt;b&gt;test catalog&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:12px&#39;&gt;Testing environment&lt;/font&gt;" vertex="1">
+          <mxGeometry height="440" width="300" x="92" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-13" parent="97dc4DNbBhvb5fI7alKX-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;fontSize=14;arcSize=6;spacingTop=6;fontFamily=Helvetica;" value="&lt;b&gt;readmissions&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;schema (product)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="260" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-14" parent="97dc4DNbBhvb5fI7alKX-13" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;" value="&lt;b&gt;summary_facility_account&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;reporting table&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="25" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-15" parent="97dc4DNbBhvb5fI7alKX-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;fontColor=#9673a6;fontSize=12;fontFamily=Helvetica;" value="other products&lt;br&gt;(more schemas)" vertex="1">
+          <mxGeometry height="70" width="260" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-16" parent="97dc4DNbBhvb5fI7alKX-12" style="text;html=1;fontSize=11;fontColor=#444444;align=center;fontFamily=Courier New;" value="test.readmissions.summary_facility_account" vertex="1">
+          <mxGeometry height="20" width="280" x="10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-17" parent="0onkV5o0HtUkhExZCP8f-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;verticalAlign=top;fontSize=16;arcSize=4;spacingTop=8;fontFamily=Helvetica;" value="&lt;b&gt;prod catalog&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:12px&#39;&gt;Production environment&lt;/font&gt;" vertex="1">
+          <mxGeometry height="440" width="300" x="472" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-18" parent="97dc4DNbBhvb5fI7alKX-17" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;verticalAlign=top;fontSize=14;arcSize=6;spacingTop=6;fontFamily=Helvetica;" value="&lt;b&gt;readmissions&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;schema (product)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="260" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-19" parent="97dc4DNbBhvb5fI7alKX-18" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=13;fontFamily=Helvetica;" value="&lt;b&gt;summary_facility_account&lt;/b&gt;&lt;br&gt;&lt;font style=&#39;font-size:11px&#39;&gt;reporting table&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="25" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-20" parent="97dc4DNbBhvb5fI7alKX-17" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;dashed=1;fontColor=#9673a6;fontSize=12;fontFamily=Helvetica;" value="other products&lt;br&gt;(more schemas)" vertex="1">
+          <mxGeometry height="70" width="260" x="20" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-21" parent="97dc4DNbBhvb5fI7alKX-17" style="text;html=1;fontSize=11;fontColor=#444444;align=center;fontFamily=Courier New;" value="prod.readmissions.summary_facility_account" vertex="1">
+          <mxGeometry height="20" width="280" x="10" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-22" edge="1" parent="0onkV5o0HtUkhExZCP8f-1" source="97dc4DNbBhvb5fI7alKX-7" style="endArrow=block;endFill=1;html=1;strokeWidth=3;strokeColor=#666666;fontSize=12;fontStyle=1;fontFamily=Helvetica;" target="97dc4DNbBhvb5fI7alKX-12" value="promote">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="97dc4DNbBhvb5fI7alKX-23" edge="1" parent="0onkV5o0HtUkhExZCP8f-1" source="97dc4DNbBhvb5fI7alKX-12" style="endArrow=block;endFill=1;html=1;strokeWidth=3;strokeColor=#666666;fontSize=12;fontStyle=1;fontFamily=Helvetica;" target="97dc4DNbBhvb5fI7alKX-17" value="promote">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
